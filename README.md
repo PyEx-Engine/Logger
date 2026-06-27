@@ -1,4 +1,4 @@
-# logger
+# Logger
 
 **Colored console + file logger — extracted from [PyEx Engine](https://github.com/PyExEngine/PyEx).**
 
