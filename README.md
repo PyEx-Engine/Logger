@@ -1,6 +1,6 @@
 # Logger
 
-**Colored console + file logger — extracted from [PyEx Engine](https://github.com/PyExEngine/PyEx).**
+**Colored console + file logger — extracted from [PyEx Engine](https://github.com/PyEx-Engine/PyEx).**
 
 ---
 
@@ -81,4 +81,4 @@ log.section(title)  # prints a separator
 
 ---
 
-*Part of the [PyEx Engine](https://github.com/PyExEngine/PyEx) project.*
+*Part of the [PyEx Engine](https://github.com/PyEx-Engine/PyEx) project.*
